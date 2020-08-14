@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="CutScreen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CutScreen_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CutScreen.jar">
+        <element id="module-output" name="CutScreen" />
+      </element>
+    </root>
+  </artifact>
+</component>
